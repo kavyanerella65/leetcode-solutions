@@ -12,6 +12,7 @@ My LeetCode solutions synced using LeetHub.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ My LeetCode solutions synced using LeetHub.
 | [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0322-coin-change) |
 ## Sorting
 |  |
 | ------- |
@@ -80,4 +82,8 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
