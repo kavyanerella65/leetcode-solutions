@@ -7,6 +7,7 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -19,6 +20,7 @@ My LeetCode solutions synced using LeetHub.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
@@ -33,4 +35,16 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
