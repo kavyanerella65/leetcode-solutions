@@ -31,6 +31,7 @@ My LeetCode solutions synced using LeetHub.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ My LeetCode solutions synced using LeetHub.
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
