@@ -10,6 +10,7 @@ My LeetCode solutions synced using LeetHub.
 | [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -93,9 +94,22 @@ My LeetCode solutions synced using LeetHub.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
