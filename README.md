@@ -66,6 +66,7 @@ My LeetCode solutions synced using LeetHub.
 | [0015-3sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Stack
 |  |
@@ -80,6 +81,7 @@ My LeetCode solutions synced using LeetHub.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0151-reverse-words-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
