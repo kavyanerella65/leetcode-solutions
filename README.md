@@ -7,6 +7,7 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -57,6 +58,7 @@ My LeetCode solutions synced using LeetHub.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -120,4 +122,8 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
