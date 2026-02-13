@@ -17,6 +17,7 @@ My LeetCode solutions synced using LeetHub.
 | [0056-merge-intervals](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -32,6 +33,7 @@ My LeetCode solutions synced using LeetHub.
 | [0049-group-anagrams](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -46,6 +48,7 @@ My LeetCode solutions synced using LeetHub.
 | [0055-jump-game](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -93,6 +96,7 @@ My LeetCode solutions synced using LeetHub.
 | [0005-longest-palindromic-substring](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -154,4 +158,12 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0133-clone-graph) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
