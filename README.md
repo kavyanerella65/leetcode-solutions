@@ -22,6 +22,7 @@ My LeetCode solutions synced using LeetHub.
 | [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -37,6 +38,7 @@ My LeetCode solutions synced using LeetHub.
 | [0141-linked-list-cycle](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -62,6 +64,7 @@ My LeetCode solutions synced using LeetHub.
 | [0056-merge-intervals](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +136,7 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Depth-First Search
 |  |
@@ -166,4 +170,12 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
