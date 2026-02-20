@@ -89,6 +89,7 @@ My LeetCode solutions synced using LeetHub.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Monotonic Stack
@@ -100,6 +101,7 @@ My LeetCode solutions synced using LeetHub.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
