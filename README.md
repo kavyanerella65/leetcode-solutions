@@ -10,6 +10,7 @@ My LeetCode solutions synced using LeetHub.
 | [0011-container-with-most-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -208,4 +209,8 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
