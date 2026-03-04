@@ -116,6 +116,7 @@ My LeetCode solutions synced using LeetHub.
 | [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/kavyanerella65/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -151,6 +152,7 @@ My LeetCode solutions synced using LeetHub.
 | ------- |
 | [0133-clone-graph](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Binary Search
@@ -166,6 +168,7 @@ My LeetCode solutions synced using LeetHub.
 | ------- |
 | [0133-clone-graph](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Union-Find
 |  |
@@ -220,8 +223,17 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
