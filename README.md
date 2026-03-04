@@ -71,6 +71,7 @@ My LeetCode solutions synced using LeetHub.
 | [0217-contains-duplicate](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,6 +93,7 @@ My LeetCode solutions synced using LeetHub.
 | [0143-reorder-list](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -205,6 +207,7 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -213,4 +216,12 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0039-combination-sum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
