@@ -13,6 +13,7 @@ My LeetCode solutions synced using LeetHub.
 | [0039-combination-sum](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0055-jump-game) |
@@ -181,6 +182,7 @@ My LeetCode solutions synced using LeetHub.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Greedy
@@ -204,6 +206,7 @@ My LeetCode solutions synced using LeetHub.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
