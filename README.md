@@ -58,6 +58,7 @@ My LeetCode solutions synced using LeetHub.
 | [0045-jump-game-ii](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0139-word-break) |
@@ -215,6 +216,7 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -264,4 +266,8 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
