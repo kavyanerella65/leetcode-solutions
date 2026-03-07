@@ -90,6 +90,7 @@ My LeetCode solutions synced using LeetHub.
 | [0023-merge-k-sorted-lists](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +224,7 @@ My LeetCode solutions synced using LeetHub.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kavyanerella65/leetcode-solutions/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
